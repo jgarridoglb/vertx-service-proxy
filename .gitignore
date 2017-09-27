@@ -1,0 +1,5 @@
+*.class
+target/content-blueprint-microservice-0.0.1-SNAPSHOT.jar
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.project

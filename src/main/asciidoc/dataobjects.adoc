@@ -1,0 +1,14 @@
+= Cheatsheets
+
+[[ContentModel]]
+== ContentModel
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[errorMessage]]`errorMessage`|`String`|-
+|[[responseWithError]]`responseWithError`|`Boolean`|-
+|===
+

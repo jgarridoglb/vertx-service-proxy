@@ -1,0 +1,13 @@
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\domain\entities\Content.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\domain\entities\Hit.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\domain\repositories\ContentManagementRepository.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\application\services\impl\ContentManagementServiceImpl.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\domain\entities\Package.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\infraestructure\launcher\ContentVerticle.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\domain\entities\package-info.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\application\services\package-info.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\App.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\infraestructure\api\RestContentAPIVerticle.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\infraestructure\persistence\ContentManagementRepositoryImpl.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\domain\entities\ContentModel.java
+C:\Users\jorge.garrido\Documents\workspace-FoxAFA\content-blueprint-microservice\src\main\java\com\spike\blueprint\application\services\ContentManagementService.java
